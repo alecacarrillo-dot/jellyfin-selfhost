@@ -24,3 +24,8 @@ Organize, stream, and share your media with Jellyfin. This setup uses host netwo
    ```bash
    git clone https://github.com/<yourusername>/<yourrepo>.git
    cd <yourrepo>
+
+2. Create required directories (Docker won’t create all subfolders automatically):
+   
+ ```bash
+   mkdir -p config cache media/music fonts
