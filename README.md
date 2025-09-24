@@ -22,8 +22,8 @@ Organize, stream, and share your media with Jellyfin. This setup uses host netwo
 ## 3. Setup Instructions
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<yourusername>/<yourrepo>.git
-   cd <yourrepo>
+   git clone https://github.com/alecacarrillo-dot/jellyfin-selfhost.git
+   cd jellyfin-selfhost
 
 2. Create required directories (Docker won’t create all subfolders automatically):
    
